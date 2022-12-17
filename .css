@@ -1,0 +1,8 @@
+table {border-collapse: collapse;}
+td {border: 3px solid palevioletred;
+    width: 5em;}
+span {
+    font-size: 4em;
+    font-weight: bold;
+    color: deeppink;
+}
